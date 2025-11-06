@@ -1,12 +1,10 @@
-# Jsddreamer
+# [3DV 2026] Text-to-3D Generation using Jensen-Shannon Score Distillation
 
 ##### Table of contents
 1. [Getting Started](#Getting-Started)
 2. [Experiments](#Experiments)
 3. [Acknowledgments](#Acknowledgments)
 4. [Contacts](#Contacts)
-
-# Text-to-3D Generation using Jensen-Shannon Score Distillation
 
 <!-- <a href="https://di-mi-ta.github.io/HyperInverter/"><img src="https://img.shields.io/badge/WEBSITE-Visit%20project%20page-blue?style=for-the-badge"></a> -->
 <a href="https://arxiv.org/abs/2503.10660"><img src="https://img.shields.io/badge/arxiv-2112.00719-red?style=for-the-badge"></a>
