@@ -7,7 +7,7 @@
 4. [Contacts](#Contacts)
 
 <!-- <a href="https://di-mi-ta.github.io/HyperInverter/"><img src="https://img.shields.io/badge/WEBSITE-Visit%20project%20page-blue?style=for-the-badge"></a> -->
-<a href="https://arxiv.org/abs/2503.10660"><img src="https://img.shields.io/badge/arxiv-2112.00719-red?style=for-the-badge"></a>
+<a href="https://arxiv.org/abs/2503.10660"><img src="https://img.shields.io/badge/arxiv-2503.10660-red?style=for-the-badge"></a>
 <!-- <a href="http://colab.research.google.com/github/di-mi-ta/hyper-inverter-code/blob/main/notebooks/demo.ipynb"><img src="https://img.shields.io/badge/DEMO-open%20in%20colab-blue?style=for-the-badge"></a> -->
 
 [Khoi Do](https://khoidoo.github.io/),
